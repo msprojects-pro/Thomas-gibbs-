@@ -1,0 +1,6 @@
+{
+  "name": "Thomas Gibb Home Improvements & Property Maintenance",
+  "description": "Professional home improvement and property maintenance services across Wrexham and surrounding areas, specialising in joinery, glazing, kitchens, bathrooms, UPVC, and general building.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
